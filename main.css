@@ -4,14 +4,14 @@
 */
 /* Adjust style for body */
 header  {
-    background-color: rgb(9, 9, 9);
+    background-color: white(9, 9, 9);
     color: white;
     text-align: center;
     font-size: xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body {
-    background-color: yellow
+    background-color: gray
 }
 
 /* Adjust style for h1 */
